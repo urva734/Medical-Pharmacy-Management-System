@@ -71,11 +71,6 @@ Note: Do not close the terminal. Server must be running for POS to work.
 | Sales Register | Customers & Udhar | Reports |
 | :---: | :---: | :---: |
 | ![Sales](screenshots/sales.png) | ![Customers](screenshots/customers.png) | ![Reports](screenshots/reports.png) |
-  ## 📸 Screenshots
-  POS Terminal	Billing	Inventory
-![POS](screenshots/pos.png)	![Billing](screenshots/billing.png)	![Inventory](screenshots/inventory.png)
-Sales Register	Customers & Udhar	Reports
-![Sales](screenshots/sales.png)	![Customers](screenshots/customers.png)	![Reports](screenshots/reports.png)
 
   ## 🔮 Future Improvements
   Add cloud backup & sync for multi-store
