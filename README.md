@@ -33,7 +33,7 @@ This project focuses on real-world pharmacy needs, fast POS billing, and secure 
 | **IDE** | VS Code |
 
 ## 🏗️ Project Structure
-
+```
 ├── app/                 # Next.js App Router (POS Terminal, Sales, Inventory)
 ├── components/          # Reusable UI components (Cart, Product Card, Scanner)
 ├── lib/                 # DB connection, SQLite helpers, SMS queue
@@ -42,7 +42,7 @@ This project focuses on real-world pharmacy needs, fast POS billing, and secure 
 ├── public/              # Icons, assets
 ├── screenshots/         # App screenshots for README
 └── patch_backup.cjs     # Backup script
-
+```
 
 ## 🚀 Getting Started
 To run this project locally:
