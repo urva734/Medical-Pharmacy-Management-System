@@ -72,14 +72,15 @@ Note: Do not close the terminal. Server must be running for POS to work.
 | :---: | :---: | :---: |
 | ![Sales](screenshots/sales.png) | ![Customers](screenshots/customers.png) | ![Reports](screenshots/reports.png) |
 
-  ## 🔮 Future Improvements
-  Add cloud backup & sync for multi-store
-  SMS integration for customer alerts
-  Profit & loss advanced analytics
-  Thermal printer integration
-  Role-based login (Owner, Staff, Cashier)Dark mode support
+## 🔮 Future Improvements
+- [ ] Add cloud backup & sync for multi-store
+- [ ] SMS integration for customer alerts
+- [ ] Profit & loss advanced analytics
+- [ ] Thermal printer integration
+- [ ] Role-based login (Owner, Staff, Cashier)
+- [ ] Dark mode support
 
-  ## 👤 Author 
-  Urva Sohail
-Aspiring Full Stack Developer
-GitHub: @urva734
+## 👤 Author 
+**Urva Sohail** - Aspiring Full Stack Developer  
+GitHub: [@urva734](https://github.com/urva734)
+
