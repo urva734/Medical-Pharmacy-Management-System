@@ -60,8 +60,7 @@ npm install
 ```
 npm run dev
 ```
-## Open http://localhost:3000
-Note: Do not close the terminal. Server must be running for POS to work.
+
 
 ## 📸 Screenshots
 | POS Terminal | Purchases & Stock-In | Inventory & Stock |
