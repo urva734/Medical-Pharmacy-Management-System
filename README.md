@@ -83,5 +83,5 @@ npm run dev
 
 ## 👤 Author 
 **Urva Sohail** 
-GitHub: [@urva734](https://github.com/urva734)
+**GitHub*: [@urva734](https://github.com/urva734)
 
