@@ -82,6 +82,6 @@ npm run dev
 - [ ] Dark mode support
 
 ## 👤 Author 
-**Urva Sohail** - Aspiring 
+**Urva Sohail** 
 GitHub: [@urva734](https://github.com/urva734)
 
